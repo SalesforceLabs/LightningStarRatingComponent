@@ -180,9 +180,6 @@
   height: 50px;
 }
 
-.rating.color-default .star-container .star svg {
-  fill: #999 !important;
-}
 .rating .star-container .value-filled svg.star-filled {
   opacity: 1;
 }
